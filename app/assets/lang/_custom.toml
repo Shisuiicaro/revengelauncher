@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Revenge launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://www.tiktok.com/@_revengestudios"
+mediaTwitterURL = "https://twitter.com/_RevengeStudios"
+mediaInstagramURL = "https://www.instagram.com/_revengestudios/"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/Q6GAsEKRDD"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/shisuiicaro/revengelauncher"
+supportLink = "https://github.com/shisuiicaro/revengelauncher/issues"
+
+[ejs.welcome]
+welcomeHeader = "¡Bienvenido a la comunidad de Revenge!"
+welcomeDescription = "Somos un equipo de aficionado que recrea, diseña y fabrica increíbles historias y proyectos en Minecraft. Cada bloque será una oportunidad para construir tus sueños. Juntos, transformaremos cada pixel en una obra maestra."
+welcomeDescCTA = " ¡Diviértete y que empiece la aventura!."
